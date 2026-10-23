@@ -205,11 +205,6 @@
       "repository": "mugongliu1/dbx-terminal-launcher",
       "metadataPath": ".dbx-store.json",
       "autoUpdate": true
-    },
-    {
-      "repository": "lieng618/dbx-mini-games",
-      "metadataPath": ".dbx-store.json",
-      "autoUpdate": true
     }
   ]
 }
